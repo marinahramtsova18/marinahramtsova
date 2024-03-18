@@ -1,0 +1,29 @@
+{
+  "name": "marinahramtsova",
+  "version": "1.0.0",
+  "description": "A Node.js module for color spectrum manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marinahramtsova18/marinahramtsova"
+  },
+  "dependencies": {
+	  "elizabethmiller": "1.0.0",
+"spleef": "1.0.0",
+"JohnYoung-js": "1.0.0",
+"edwardcollins": "1.0.0",
+"kennethallen": "1.0.0",
+"carolscott": "1.0.0",
+"part-lenovpaha": "1.0.0",
+    "chroma-js": "^2.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinahramtsova18/marinahramtsova/issues"
+  },
+  "homepage": "https://github.com/marinahramtsova18/marinahramtsova#readme"
+}
